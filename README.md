@@ -1,2 +1,2 @@
 # Java Hello World
-Example repo to learn github.
+Example hello world repo created for learning github.
